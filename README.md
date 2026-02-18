@@ -5,7 +5,7 @@ Economista (UNT) y maestrando en Economía (UTDT), con fuerte orientación a an�
 Mi tesis de grado analiza el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macro y métodos empíricos/cuantitativos.
 Fui becario de investigación CIUNT, desarrollando análisis en crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico de las provincias argentinas.
 
-Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de información de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets siempre actualizados.
+Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de información de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets actualizados de manera continua.
 
 Realizo análisis, visualización y reporting de variables económicas, monetarias y financieras mediante Python y Power BI, orientados tanto a investigación como a soporte de decisiones. Manejo de bases de datos con SQL. Manejo avanzado de Paquete Office. Nivel avanzado en STATA y básico en Matlab.
 
