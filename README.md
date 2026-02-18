@@ -1,10 +1,10 @@
 ## 💼 Perfil profesional
 
-Economista (UNT) y maestrando en Economía (UTDT), especializado en análisis de datos y research económico-financiero aplicado.
+Economista (UNT) y maestrando en Economía (UTDT), orientado al análisis de datos y research económico-financiero aplicado.
 
-Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de información de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets actualizados de forma continua.
+Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de datos (económicos, monetarios y financieros entre otros) de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets continuamente actualizados.
 
-Realizo análisis, visualización y reporting de variables económicas, monetarias y financieras con Python y Power BI, orientados a investigación y soporte a la toma de decisiones, incluyendo la elaboración de informes y presentaciones en LaTeX (Overleaf).
+Realizo análisis y visualización de datos con Python, y desarrollo dashboards en Power BI para soporte a la toma de decisiones. Además, elaboro informes y presentaciones en LaTeX (Overleaf).
 
 Manejo de bases de datos con SQL. Nivel avanzado en Stata y Paquete Office. Conocimientos en R y Matlab (básico).
 
