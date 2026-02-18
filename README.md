@@ -2,9 +2,8 @@
 
 Economista (UNT) y maestrando en Economía (UTDT), con fuerte orientación a análisis de datos, research económico-financiero y mercados de capitales. Mi formación combina economía aplicada, finanzas y herramientas cuantitativas.
 
-Mi tesis de grado analiza el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macro, datos de alta frecuencia y métodos empíricos.
-
-Fui becario de investigación CIUNT en el área de crecimiento y desarrollo, con foco en federalismo fiscal y desempeño económico de las provincias argentinas.
+Mi tesis de grado analiza el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macro y métodos empíricos/cuantitativos.
+Fui becario de investigación CIUNT, desarrollando análisis en crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico de las provincias argentinas.
 
 Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de información de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets siempre actualizados.
 
