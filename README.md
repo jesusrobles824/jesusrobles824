@@ -1,5 +1,12 @@
-## Hi there 👋
+## 👋 💼 Perfil profesional
 
+Economista (UNT) y maestrando en Economía (UTDT), con enfoque en economía aplicada, finanzas y análisis de datos.
+Mi tesis de grado se centra en el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos.
+
+Tengo experiencia desarrollando pipelines de datos automatizados para la descarga, limpieza y almacenamiento de bases de datos de alta frecuencia, utilizando Python y GitHub Actions, lo que permite mantener datasets actualizados de forma continua.
+
+Trabajo con Power BI y Python para el análisis y la visualización de datos económicos, monetarios y financieros, como se muestra en mis repositorios.
+Soy un apasionado por el estudio de los mercados, la macroeconomía y el uso de herramientas cuantitativas para la toma de decisiones.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jesusrobles824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusrobles824) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JesusRobles824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesusrobles3500@gmail.com) 
