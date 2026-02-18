@@ -1,4 +1,4 @@
-## 👋 💼 Perfil profesional
+## 💼 Perfil profesional
 
 Economista (UNT) y maestrando en Economía (UTDT), con enfoque en economía aplicada, finanzas y análisis de datos.
 Mi tesis de grado se centra en el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos.
