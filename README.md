@@ -1,13 +1,16 @@
 ## 💼 Perfil profesional
 
-Economista (UNT) y maestrando en Economía (UTDT), con fuerte orientación a análisis de datos, research económico-financiero y mercados de capitales. Mi formación combina economía aplicada, finanzas y herramientas cuantitativas.
+Economista (UNT) y maestrando en Economía (UTDT), especializado en análisis de datos y research económico-financiero aplicado.
 
-Mi tesis de grado analiza el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macro y métodos empíricos/cuantitativos.
-Fui becario de investigación CIUNT, desarrollando análisis en crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico de las provincias argentinas.
+Mi tesis de grado analiza el impacto de las variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macro y métodos empíricos.
+
+Fui becario de investigación CIUNT, desarrollando análisis en crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico provincial.
 
 Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de información de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets actualizados de manera continua.
 
-Realizo análisis, visualización y reporting de variables económicas, monetarias y financieras mediante Python y Power BI, orientados tanto a investigación como a soporte de decisiones. Manejo de bases de datos con SQL. Manejo avanzado de Paquete Office. Nivel avanzado en STATA y básico en Matlab.
+Realizo análisis, visualización y reporting de variables económicas, monetarias y financieras mediante Python y Power BI, orientados a investigación y soporte de decisiones.
+
+Manejo de bases de datos con SQL. Nivel avanzado en Stata y Paquete Office. Conocimientos en R y Matlab (básico).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jesusrobles824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusrobles824) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JesusRobles824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesusrobles3500@gmail.com) 
