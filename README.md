@@ -2,7 +2,7 @@
 
 Economista (UNT) y maestrando en Economía (UTDT), orientado al análisis de datos y research económico-financiero aplicado.
 
-Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de datos (económicos, monetarios y financieros entre otros) de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets continuamente actualizados.
+Cuento con experiencia en el desarrollo de pipelines de datos automatizados para la descarga, limpieza y almacenamiento de datos (económicos, monetarios y financieros, entre otros) de alta frecuencia, utilizando Python y GitHub Actions, asegurando procesos reproducibles y datasets continuamente actualizados.
 
 Realizo análisis y visualización de datos con Python, y desarrollo dashboards en Power BI para soporte a la toma de decisiones. Además, elaboro informes y presentaciones en LaTeX (Overleaf).
 
