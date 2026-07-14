@@ -2,7 +2,7 @@
 
 Economista (UNT) y maestrando en Economía (UTDT), con enfoque en análisis de datos y research económico-financiero aplicado. Cuento con experiencia en el diseño y desarrollo de pipelines de datos automatizados para la descarga, limpieza, procesamiento y almacenamiento de información económica, monetaria y financiera de alta frecuencia, utilizando Python y GitHub Actions, garantizando procesos reproducibles y bases de datos siempre actualizadas.
 
-Realizo análisis exploratorio, modelización y visualización de datos con Python, y desarrollo dashboards interactivos en Power BI para la toma de decisiones. Elaboro informes técnicos y presentaciones profesionales en LaTeX (Overleaf). Poseo manejo de bases de datos mediante SQL, nivel avanzado en Stata y Paquete Office, y conocimientos básicos en R y Matlab. Conocimiento básico de herramientas para automatizar procesos en la nube (Azure, AWS, Google Cloud).
+Realizo análisis exploratorio, modelización y visualización de datos con Python, y desarrollo dashboards interactivos en Power BI para la toma de decisiones. Elaboro informes técnicos y presentaciones profesionales en LaTeX (Overleaf). Manejo de bases de datos mediante SQL, nivel avanzado en Stata y Paquete Office, y conocimientos básicos en R y Matlab.
 
 Mi tesis de grado analiza el impacto de variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macroeconómico y métodos empíricos. Fui becario de investigación UNT, participando en proyectos sobre crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico provincial.
 
