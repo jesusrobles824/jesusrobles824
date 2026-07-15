@@ -1,10 +1,14 @@
 ## 💼 Perfil profesional
 
-Economista (UNT) y maestrando en Economía (UTDT), con enfoque en análisis de datos y research económico-financiero aplicado. Cuento con experiencia en el diseño y desarrollo de pipelines de datos automatizados para la descarga, limpieza, procesamiento y almacenamiento de información económica, monetaria y financiera de alta frecuencia, utilizando Python y GitHub Actions, garantizando procesos reproducibles y bases de datos siempre actualizadas.
+Economista (UNT) con Maestría en Economía en curso (UTDT). Profesional con enfoque en análisis de datos y research económico-financiero aplicado. Cuento con experiencia aplicada en análisis exploratorio, modelización y visualización de datos con Python, y desarrollo dashboards interactivos en Power BI así también como en la elaboración de informes de coyuntura económica y presentaciones overlaf (latex) y power point. 
 
-Realizo análisis exploratorio, modelización y visualización de datos con Python, y desarrollo dashboards interactivos en Power BI para la toma de decisiones. Elaboro informes técnicos y presentaciones profesionales en LaTeX (Overleaf). Manejo de bases de datos mediante SQL, nivel avanzado en Stata y Paquete Office, y conocimientos básicos en R y Matlab.
+Manejo de SQL para consulta y gestión de bases de datos. Nivel avanzado de Stata y conocimientos básicos de R y Matlab.
 
-Mi tesis de grado analiza el impacto de variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macroeconómico y métodos empíricos. Fui becario de investigación UNT, participando en proyectos sobre crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico provincial.
+Me interesa especialmente el aprendizaje y desarrollo de soluciones para la automatización de procesos aplicados al análisis de datos. En mi perfil podrán encontrar un repositorio que ejemplifica el diseño de pipelines para la descarga, limpieza, procesamiento y almacenamiento automatizado de información económica, monetaria y financiera de alta frecuencia utilizando Python y GitHub Actions, garantizando procesos reproducibles y bases de datos permanentemente actualizadas.
+
+A corto plazo, mi objetivo es profundizar en el desarrollo y despliegue de este tipo de soluciones mediante tecnologías de computación en la nube, como Google Cloud, AWS o Azure.
+
+Por otra parte, mi tesis de grado analiza el impacto de variables macroeconómicas sobre los índices bursátiles sectoriales argentinos, integrando análisis macroeconómico y métodos empíricos. Fui becario de investigación UNT, participando en proyectos sobre crecimiento y desarrollo económico, con énfasis en federalismo fiscal y desempeño económico provincial.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jesusrobles824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusrobles824) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@JesusRobles824) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesusrobles3500@gmail.com) 
